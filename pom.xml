@@ -19,7 +19,7 @@
     <properties>
         <java.version>11</java.version>
         <!--测试单元版本-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
