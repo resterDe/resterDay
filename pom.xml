@@ -148,7 +148,7 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.3.6</version>
+            <version>4.5.13</version>
         </dependency>
         <!--fastjson 将对象转化为json字符串的功能,解析最快-->
         <dependency>
